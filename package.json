@@ -1,0 +1,17 @@
+{
+  "name": "packbot",
+  "version": "1.0.0",
+  "description": "A price-checking bot made utilizing backpack.tf API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Kowalczyk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5"
+  }
+}
